@@ -2,10 +2,10 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Redirection vers Discord</title>
-    <meta http-equiv="refresh" content="0; URL=https://discord.gg/dMGH9HUMK9">
+    <title>Redirection vers Discord.gg</title>
+    <meta http-equiv="refresh" content="3;url=https://discord.gg/dMGH9HUMK9">
   </head>
   <body>
-    <p>Vous êtes en train d'être redirigé vers Discord. Si vous n'êtes pas redirigé automatiquement, veuillez cliquer sur le lien suivant : <a href="https://discord.gg/dMGH9HUMK9">https://discord.gg/dMGH9HUMK9</a></p>
+    <p>Vous allez être redirigé vers Discord.gg dans 3 secondes. Si la redirection ne fonctionne pas, veuillez cliquer sur ce lien : <a href="https://discord.gg/dMGH9HUMK9">https://discord.gg/dMGH9HUMK9</a>.</p>
   </body>
 </html>
