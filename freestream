@@ -2,6 +2,10 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta property="og:title" content="Tu as été invité à rejoindre un serveur !">
+    <meta property="og:description" content="Free_Steam">
+    <meta property="og:url" content="https://dsc.dogenation.xyz/freestream">
+    <meta name="theme-color" content="#FF0000">
     <title>Redirection vers Discord.gg</title>
     <meta http-equiv="refresh" content="3;url=https://discord.gg/dMGH9HUMK9">
   </head>
